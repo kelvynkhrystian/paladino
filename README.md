@@ -1,7 +1,7 @@
 # Paladino da Sublimação - Loja Virtual
 ## Status: Em Planejamento 
 
-### Link da aplicação online: 
+### Link da aplicação online: https://paladino.vercel.app/
 
 ### Informações e passos a seguir:
 1. Continuação de um projeto anterior pausado
@@ -14,7 +14,8 @@
 8.
 9.
 
-### Link do Repositório antigo: https://github.com/kelvynkhrystian/paladinoDaSublimacao
-### Projeto antes do REACT e basicamente sem JS:
+
+## Projeto antes do REACT e basicamente sem JS:
+#### Link do Repositório antigo: https://github.com/kelvynkhrystian/paladinoDaSublimacao
 
 ![Design sem nome](https://user-images.githubusercontent.com/94154348/188351799-e9d3ab58-4798-48a2-a595-145b69d8ac3b.gif)
