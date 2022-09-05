@@ -15,7 +15,7 @@
 9.
 
 
-## Projeto antes do REACT e basicamente sem JS:
+## Projeto antes do REACT:
 #### Link do Repositório antigo: https://github.com/kelvynkhrystian/paladinoDaSublimacao
 
 ![Design sem nome](https://user-images.githubusercontent.com/94154348/188351799-e9d3ab58-4798-48a2-a595-145b69d8ac3b.gif)
