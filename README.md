@@ -3,7 +3,7 @@
 
 ### Link da aplicação online: https://paladino.vercel.app/
 
-### Informações e passos a seguir:
+### Informações e passos a seguir: (sujeito a alterações)
 1. Continuação de um projeto anterior pausado
 2. Reformulação em React
 3. Melhorar a qualidade e formatos das imagens
